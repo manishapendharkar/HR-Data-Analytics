@@ -1,4 +1,4 @@
-HR Employee Analytics Dashboard
+# HR Employee Analytics Dashboard
 
 Project Overview : This HR Employee Analytics Dashboard provides an interactive and comprehensive view of workforce metrics. It helps stakeholders gain actionable insights into employee demographics, diversity, workforce trends, and termination rates. The dashboard is designed to support data-driven decision-making in Human Resource Management.
 
